@@ -1,0 +1,96 @@
+* {
+    font-family: Arial;
+    background-color: rgb(160, 204, 204);
+}
+
+header {
+    padding: 10px;
+    margin-left: 10%;
+    text-align: left;
+    color:rgb(17, 87, 87);
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 600;
+}
+
+nav a {
+    padding: 20px 30px;
+    font-size: 20px;
+    color:rgb(17, 87, 87);
+    text-align: center;
+    text-decoration: none;
+}
+
+.content {
+    width: 90%;
+    flex: 1;
+    padding: 80px;
+    background-color: rgb(202, 220, 220);
+}
+
+#aboutme {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 400px;
+    color: rgb(17, 87, 87);
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    width: 300px;
+    height: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(17, 87, 87);
+    display: block;
+}
+
+#project {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    color: rgb(17, 87, 87);
+
+}
+.float-right {
+    float: right;
+    margin-right: 25px;
+    width: 200px;
+    height: auto;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(17, 87, 87);
+    display: block;
+}
+#futureproject {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    color: rgb(17, 87, 87);
+}
+.float-right2 {
+    float: right;
+    margin-right: 25px;
+    width: 100px;
+    height: auto;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(17, 87, 87);
+    display: block;
+}
+#contact {
+    padding: 10px;
+    height: 100px;
+    color: rgb(17, 87, 87);
+    margin-left: 100px;
+}
+
+.social_medias img {
+    height: 80px;
+    padding: 10px;
+    align-items: center;
+}
