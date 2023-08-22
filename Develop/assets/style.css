@@ -56,17 +56,24 @@ nav a {
     color: rgb(17, 87, 87);
 }
 
+#project1 {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    color: rgb(17, 87, 87);
+}
+
 #project2 {
-        margin-bottom: 20px;
-        padding: 50px;
-        height: 200px;
-        color: rgb(17, 87, 87);
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    color: rgb(17, 87, 87);
 
 }
 .float-right {
     float: right;
     margin-right: 25px;
-    width: 260px;
+    width: 280px;
     height: 220px;
     border-style: solid;
     border-width: 3px;
